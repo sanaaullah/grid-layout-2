@@ -1,0 +1,15 @@
+header,.hero,.body,.bar{
+	margin-bottom: 15px;
+}
+.box{
+	min-height: 70px;
+	font-size: 22px;
+	background-color: darkblue;
+	border: 2px solid red;
+	color: white;
+	line-height: 70px;
+	text-align: center;
+}
+.red{
+	background-color: red;
+}
